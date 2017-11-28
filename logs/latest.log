@@ -1,48 +1,121 @@
-[20:27:23] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[20:27:23] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[20:27:23] [Server thread/INFO]: Loading properties
-[20:27:23] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
-	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
-[20:27:23] [Server thread/INFO]: Default game type: SURVIVAL
-[20:27:23] [Server thread/INFO]: Generating keypair
-[20:27:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:27:23] [Server thread/INFO]: Using default channel type
-[20:27:24] [Server thread/INFO]: Preparing level "world"
-[20:27:24] [Server thread/INFO]: Loaded 488 advancements
-[20:27:24] [Server thread/INFO]: Preparing start region for level 0
-[20:27:25] [Server thread/INFO]: Preparing spawn area: 22%
-[20:27:26] [Server thread/INFO]: Preparing spawn area: 63%
-[20:27:27] [Server thread/INFO]: Done (3.148s)! For help, type "help" or "?"
-[20:28:16] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
-[20:28:16] [Server thread/INFO]: pieman63[/10.21.118.241:54882] logged in with entity id 423 at (158.6999999880791, 74.0, 218.0476691971567)
-[20:28:16] [Server thread/INFO]: pieman63 joined the game
-[20:29:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2887ms behind, skipping 57 tick(s)
-[20:30:57] [Server thread/INFO]: pieman63 lost connection: Disconnected
-[20:30:57] [Server thread/INFO]: pieman63 left the game
-[20:31:13] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:31:16] [Server thread/INFO]: Saving...
-[20:31:16] [Server thread/INFO]: Saved the world
-[20:32:06] [Server thread/INFO]: Stopping server
-[20:32:06] [Server thread/INFO]: Saving players
-[20:32:06] [Server thread/INFO]: Saving worlds
-[20:32:06] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[20:32:06] [Server Shutdown Thread/INFO]: Stopping server
-[20:32:06] [Server Shutdown Thread/INFO]: Saving players
-[20:32:06] [Server Shutdown Thread/INFO]: Saving worlds
-[20:32:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[20:32:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[20:32:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
-[20:32:06] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[20:32:06] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[20:45:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:45:24] [Server thread/INFO]: Loading properties
+[20:45:24] [Server thread/INFO]: Default game type: SURVIVAL
+[20:45:24] [Server thread/INFO]: Generating keypair
+[20:45:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:45:24] [Server thread/INFO]: Using default channel type
+[20:45:24] [Server thread/INFO]: Preparing level "world"
+[20:45:24] [Server thread/INFO]: Loaded 488 advancements
+[20:45:24] [Server thread/INFO]: Preparing start region for level 0
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 38%
+[20:45:26] [Server thread/INFO]: Done (2.059s)! For help, type "help" or "?"
+[20:45:45] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[20:45:45] [Server thread/INFO]: pieman63[/10.21.118.241:54995] logged in with entity id 434 at (161.23860112649697, 67.0, 223.90508603073417)
+[20:45:45] [Server thread/INFO]: pieman63 joined the game
+[20:45:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2160ms behind, skipping 43 tick(s)
+[20:48:07] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[20:48:07] [Server thread/INFO]: pieman63 left the game
+[20:55:39] [User Authenticator #2/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[20:55:40] [Server thread/INFO]: pieman63[/10.21.118.241:55139] logged in with entity id 2411 at (156.88627041102853, 67.0, 204.07605414699682)
+[20:55:40] [Server thread/INFO]: pieman63 joined the game
+[20:55:48] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[20:55:48] [Server thread/INFO]: pieman63 left the game
+[20:56:50] [User Authenticator #3/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[20:56:51] [Server thread/INFO]: pieman63[/10.21.118.241:55179] logged in with entity id 2634 at (156.33161544872547, 66.0, 200.98327899766576)
+[20:56:51] [Server thread/INFO]: pieman63 joined the game
+[20:56:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3563ms behind, skipping 71 tick(s)
+[20:57:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4374ms behind, skipping 87 tick(s)
+[21:07:14] [Server thread/INFO]: [pieman63: Saved the world]
+[21:09:48] [User Authenticator #4/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[21:09:48] [Server thread/INFO]: John825[/10.21.198.240:50382] logged in with entity id 12567 at (96.5, 72.0, 255.5)
+[21:09:48] [Server thread/INFO]: John825 joined the game
+[21:10:11] [Server thread/INFO]: [pieman63: Opped John825]
+[21:10:16] [Server thread/INFO]: [John825: Set own game mode to Creative Mode]
+[21:11:47] [Server thread/INFO]: John825 has made the advancement [Best Friends Forever]
+[21:16:41] [Server thread/WARN]: John825 moved too quickly! 8.194526625690344,0.1068242586678565,-6.5586474022258585
+[21:16:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5761ms behind, skipping 115 tick(s)
+[21:16:50] [Server thread/WARN]: John825 moved too quickly! -8.708308846803448,0.0,5.430162249506765
+[21:16:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2458ms behind, skipping 49 tick(s)
+[21:17:24] [Server thread/INFO]: John825 has made the advancement [Ice Bucket Challenge]
+[21:17:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2410ms behind, skipping 48 tick(s)
+[21:20:06] [User Authenticator #5/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[21:20:06] [Server thread/INFO]: SweetPee823[/10.21.108.119:57058] logged in with entity id 20055 at (91.5, 73.0, 247.5)
+[21:20:06] [Server thread/INFO]: SweetPee823 joined the game
+[21:20:22] [Server thread/INFO]: John825 has made the advancement [We Need to Go Deeper]
+[21:20:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8884ms behind, skipping 177 tick(s)
+[21:20:22] [Server thread/WARN]: John825 moved too quickly! -153.2166590127672,15.0,-150.52631051040575
+[21:20:38] [Server thread/INFO]: John825 has made the advancement [Stone Age]
+[21:20:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10852ms behind, skipping 217 tick(s)
+[21:21:13] [Server thread/INFO]: [pieman63: Opped SweetPee823]
+[21:21:24] [Server thread/WARN]: pieman63 moved too quickly! 0.022757242563187674,0.0,10.22109780444353
+[21:21:24] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
+[21:21:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2127ms behind, skipping 42 tick(s)
+[21:21:25] [Server thread/WARN]: John825 moved too quickly! 152.5817022273051,-15.0,149.79195443083233
+[21:22:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
+[21:22:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4182ms behind, skipping 83 tick(s)
+[21:22:57] [Server thread/INFO]: pieman63 has made the advancement [Monster Hunter]
+[21:29:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[21:29:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2350ms behind, skipping 47 tick(s)
+[21:30:32] [Server thread/WARN]: SweetPee823 moved too quickly! -0.6701905760733098,-11.095336265254247,-0.738971696077158
+[21:30:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2122ms behind, skipping 42 tick(s)
+[21:32:58] [Server thread/INFO]: John825 lost connection: Kicked by an operator.
+[21:32:58] [Server thread/INFO]: John825 left the game
+[21:32:58] [Server thread/INFO]: [pieman63: Kicked John825 from the game]
+[21:32:58] [Server thread/WARN]: handleDisconnection() called twice
+[21:33:03] [User Authenticator #6/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[21:33:04] [Server thread/INFO]: John825[/10.21.198.240:50442] logged in with entity id 39497 at (159.1841959788753, 67.0, 215.85890544829255)
+[21:33:04] [Server thread/INFO]: John825 joined the game
+[21:33:12] [Server thread/WARN]: SweetPee823 moved too quickly! -0.17911868853701662,-0.34868719665989545,-10.043015572433035
+[21:33:30] [Server thread/WARN]: SweetPee823 moved too quickly! 8.186127036767687,1.4456238691694097,-5.751214070842252
+[21:35:07] [Server thread/INFO]: SweetPee823 has made the advancement [Enchanter]
+[21:35:48] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
+[21:39:29] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
+[21:41:05] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
+[21:41:25] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
+[21:47:46] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[21:47:46] [Server thread/INFO]: SweetPee823 left the game
+[21:48:01] [Server thread/WARN]: John825 moved too quickly! 4.321108217968771,-1.3562400538921366,8.936690719532407
+[21:52:35] [User Authenticator #7/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[21:52:36] [Server thread/INFO]: SweetPee823[/10.21.108.119:57097] logged in with entity id 64426 at (289.1567666631695, 65.0, 136.5217515137025)
+[21:52:36] [Server thread/INFO]: SweetPee823 joined the game
+[21:53:02] [Server thread/INFO]: SweetPee823 has made the advancement [Hot Stuff]
+[21:53:59] [Server thread/INFO]: SweetPee823 has made the advancement [Acquire Hardware]
+[21:55:09] [Server thread/INFO]: SweetPee823 has made the advancement [Diamonds!]
+[21:58:33] [Server thread/INFO]: pieman63 has made the advancement [Stone Age]
+[21:58:56] [Server thread/INFO]: John825 has made the advancement [Acquire Hardware]
+[21:59:18] [Server thread/INFO]: John825 has made the advancement [Suit Up]
+[22:00:12] [Server thread/INFO]: SweetPee823 has made the advancement [Stone Age]
+[22:03:13] [Server thread/WARN]: SweetPee823 moved too quickly! 9.148024730772818,0.7331973717126914,-4.976309463722544
+[22:07:30] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[22:07:30] [Server thread/INFO]: pieman63 left the game
+[22:07:56] [Server thread/INFO]: John825 lost connection: Disconnected
+[22:07:56] [Server thread/INFO]: John825 left the game
+[22:08:26] [Server thread/INFO]: Saving...
+[22:08:26] [Server thread/INFO]: Saved the world
+[22:10:13] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[22:10:16] [Server thread/INFO]: [SweetPee823: Set the time to 0]
+[22:20:40] [Server thread/INFO]: Saving...
+[22:20:40] [Server thread/INFO]: Saved the world
+[22:20:40] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[22:37:04] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
+[22:37:20] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
+[22:37:25] [Server thread/INFO]: SweetPee823 has made the advancement [Suit Up]
+[22:37:59] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
+[22:38:20] [Server thread/INFO]: [SweetPee823: Saved the world]
+[22:38:57] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[22:38:57] [Server thread/INFO]: SweetPee823 left the game
+[22:41:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:41:21] [Server thread/INFO]: Saving...
+[22:41:21] [Server thread/INFO]: Saved the world
+[22:41:23] [Server thread/INFO]: Stopping server
+[22:41:23] [Server thread/INFO]: Saving players
+[22:41:23] [Server thread/INFO]: Saving worlds
+[22:41:23] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[22:41:23] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[22:41:23] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[22:41:23] [Server Shutdown Thread/INFO]: Stopping server
+[22:41:23] [Server Shutdown Thread/INFO]: Saving players
+[22:41:23] [Server Shutdown Thread/INFO]: Saving worlds
+[22:41:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[22:41:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[22:41:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

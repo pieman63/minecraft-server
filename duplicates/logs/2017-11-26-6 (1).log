@@ -1,0 +1,220 @@
+[12:37:22] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[12:37:22] [Server thread/INFO]: Loading properties
+[12:37:22] [Server thread/INFO]: Default game type: SURVIVAL
+[12:37:22] [Server thread/INFO]: Generating keypair
+[12:37:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:37:22] [Server thread/INFO]: Using default channel type
+[12:37:23] [Server thread/INFO]: Preparing level "world"
+[12:37:23] [Server thread/INFO]: Loaded 488 advancements
+[12:37:23] [Server thread/INFO]: Preparing start region for level 0
+[12:37:23] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e96c7eee-3c0a-4674-9a27-0f01c556a45d
+[12:37:24] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 8b75311b-7d21-47e5-b197-067ecc98f901
+[12:37:24] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ae7294d0-0734-4df7-a811-3b78aa8d19ff
+[12:37:24] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
+[12:37:24] [Server thread/INFO]: Done (1.216s)! For help, type "help" or "?"
+[12:37:42] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[12:37:42] [Server thread/INFO]: SweetPee823[/10.21.35.205:53480] logged in with entity id 273 at (388.64120663226834, 87.0, 140.2922403564)
+[12:37:42] [Server thread/INFO]: SweetPee823 joined the game
+[12:37:42] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ff585b83-babf-4000-b495-10f617a20c5b
+[12:37:42] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID 8d815227-19b0-4af4-b258-dffe1b6c7bfc
+[12:37:53] [User Authenticator #2/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[12:37:53] [Server thread/INFO]: John825[/10.21.193.141:57197] logged in with entity id 579 at (158.99185743797045, 59.0, 219.67945227431167)
+[12:37:53] [Server thread/INFO]: John825 joined the game
+[12:38:11] [Server thread/INFO]: John825 has made the advancement [A Seedy Place]
+[12:40:10] [User Authenticator #3/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
+[12:40:10] [Server thread/INFO]: tim127[/10.21.167.31:50330] logged in with entity id 5210 at (90.5, 73.0, 264.5)
+[12:40:10] [Server thread/INFO]: tim127 joined the game
+[12:40:16] [Server thread/INFO]: <tim127> eyyyyy
+[12:40:17] [Server thread/INFO]: <SweetPee823> yoooooo
+[12:40:34] [Server thread/INFO]: John825 has made the advancement [Stone Age]
+[12:40:53] [Server thread/INFO]: <tim127> que dondes
+[12:41:00] [Server thread/INFO]: <SweetPee823> hold on Ill be there in a second
+[12:41:04] [Server thread/INFO]: John825 has made the advancement [Getting an Upgrade]
+[12:41:04] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 370fa3cd-622c-4f22-8311-b13b5766d1d7
+[12:41:28] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
+[12:41:53] [Server thread/INFO]: <SweetPee823> whats ur coords
+[12:41:53] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID fc9f727e-17a2-4865-97bf-200e7ebfae28
+[12:42:13] [Server thread/INFO]: <tim127> 60/73/247
+[12:42:22] [Server thread/INFO]: <SweetPee823> come to 191/62/310
+[12:43:37] [Server thread/INFO]: <SweetPee823> did you find it
+[12:43:55] [Server thread/INFO]: <tim127> i found a house by a nether portal
+[12:44:10] [Server thread/INFO]: <SweetPee823> yo
+[12:44:18] [Server thread/INFO]: <SweetPee823> this is the house
+[12:44:33] [Server thread/INFO]: <tim127> nice
+[12:44:36] [Server thread/INFO]: <SweetPee823> ya very haha
+[12:44:44] [Server thread/INFO]: <SweetPee823> this stuffs mine and the stuff on the wall is spences
+[12:44:54] [Server thread/INFO]: <SweetPee823> the farm is over here
+[12:45:19] [Server thread/INFO]: <SweetPee823> make sure to keep these doors closed because wolves will attack our sheep
+[12:45:27] [Server thread/INFO]: <tim127> lol
+[12:45:51] [Server thread/INFO]: <SweetPee823> this river is the best and using a boat is the best way to get around
+[12:45:51] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ff585b83-babf-4000-b495-10f617a20c5b
+[12:45:57] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 370fa3cd-622c-4f22-8311-b13b5766d1d7
+[12:46:02] [Server thread/INFO]: <SweetPee823> hop in
+[12:46:12] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID b41a7747-5d2a-46ee-b1b2-909324a39a15
+[12:46:47] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID b41a7747-5d2a-46ee-b1b2-909324a39a15
+[12:47:12] [Server thread/INFO]: John825 has made the advancement [The Parrots and the Bats]
+[12:49:01] [Server thread/INFO]: John825 has made the advancement [Acquire Hardware]
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -6.507634333570195,-8.45496117563016E-9,8.039908360225411
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -6.659758100050283,-8.12622857893075E-9,8.399129311616093
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -6.807023482673856,-7.657106948499859E-9,8.761064858622092
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -6.949705024270656,-7.121187195480161E-9,9.125499547631506
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.0880717981815735,-6.579142564078211E-9,9.492232597238171
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.22238060707258,-6.076973591007118E-9,9.861078625216692
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.3528847099432255,-5.645922840358253E-9,10.231864473201568
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.479826794830586,-5.303576244841679E-9,10.604430063012927
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.603436346005793,-5.05584552001892E-9,10.978628142894763
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.724612326465689,-4.899405325886619E-9,11.354154916048742
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.844774656431412,-4.824265431579988E-9,11.730556884830577
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.9657407969307314,-4.816271825802687E-9,12.107208571660465
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.088952437619383,-4.8592880830256036E-9,12.483535457353412
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.215535596101006,-4.937035669172474E-9,12.859022843941233
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.346350875852693,-5.0344510782451835E-9,13.2332204523739
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.482034814741525,-5.138630854162329E-9,13.605744489189277
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.623043417712267,-5.239328970674251E-9,13.976273058038231
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.769680430417765,-5.329155783329043E-9,14.34454467501348
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.92212567072312,-5.403457237207476E-9,14.710353344991148
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.08045995150124,-5.46001643897398E-9,15.073542472583938
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.244683713214954,-5.498634436662542E-9,15.434000100980256
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.414730220686977,-5.520618628906959E-9,15.791655818992382
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.590486649110176,-5.528328017589956E-9,16.146470839743728
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.771796852718296,-5.52470424963758E-9,16.498439144672545
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.958476271119395,-5.512873713087174E-9,16.847579404800513
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.150318795935249,-5.49585621456572E-9,17.19393164750636
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.347105845327235,-5.476344711041747E-9,17.537551663820352
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.54860822787819,-5.456570306705544E-9,17.878510311227245
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.754590787279795,-5.43821698784086E-9,18.216890420046752
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.964816467067152,-5.4224358336796286E-9,18.552783837812825
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -11.179052855979648,-5.40987343811139E-9,18.88628621925372
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -11.397069002115927,-5.4007642802389455E-9,19.217499400424686
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -11.618638502412523,-5.394987567797216E-9,19.546528694412558
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -11.843542216119346,-5.392188029418321E-9,19.873480369925574
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -12.071570636147072,-5.391846968905156E-9,20.198459294480102
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -12.302520113106652,-5.393381741214398E-9,20.52157168594823
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -12.536198256080695,-5.396195490448008E-9,20.842920181211014
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -12.77241994947832,-5.399733993272093E-9,21.162606770295838
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -13.011009633674263,-5.403528291481052E-9,21.48073046942548
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -13.251803312880554,-5.407201797424932E-9,21.797385183921364
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -13.494644532151568,-5.410484504864144E-9,22.112662771117726
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -13.739386566279023,-5.413205883542105E-9,22.42665079391938
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -13.98589147848287,-5.415280668330524E-9,22.739432972596404
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -14.23402926392015,-5.4167017538020445E-9,23.051089610026054
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -14.483677082567965,-5.417518877948169E-9,23.361697953921066
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -14.734721450330511,-5.41781020046983E-9,23.671330000813867
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -14.987057305308753,-5.417689408204751E-9,23.9800530342132
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -15.24058718048164,-5.417263082563295E-9,24.28793010149451
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -15.495217570156768,-5.416644910383184E-9,24.59502298188667
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -15.750864304312017,-5.415934367647424E-9,24.90138725993043
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -16.007445863180124,-5.415216719484306E-9,25.207078018792686
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -16.264888865933955,-5.4145488093126914E-9,25.51214481655856
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -16.52312438831879,-5.413973269696726E-9,25.816634790563484
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -16.782090392919145,-5.413511416918482E-9,26.12059035323236
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -17.041728166413066,-5.4131774618326745E-9,26.42405221453197
+[12:49:27] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -17.301984864949645,-5.4129642990119464E-9,26.72705700225552
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.0683383370252955,0.0,7.132020887111423
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.173063189385601,0.0,7.245995690599528
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.267315554013038,0.0,7.348573011021443
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.35214267993058,0.0,7.4408925969555355
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.428487091233933,0.0,7.523980222095133
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.497197059586767,0.0,7.598759082739832
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.583115842156758,0.0,7.698000038905093
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.684485795947239,0.0,7.8192845630878764
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.799728076552043,0.0,7.9604336336601875
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -7.927427837244693,0.0,8.119481504398209
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.06631169737858,0.0,8.294658973945104
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.215239740642033,0.0,8.484369149212483
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.373186034931166,0.0,8.687174815282987
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.53922723020105,0.0,8.901782463864095
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.712538452574307,0.0,9.127023344240484
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -8.89237731185571,0.0,9.36184557334559
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.054232280921298,0.0,9.5731855739416
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.199901749221397,0.0,9.76339156943925
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.331004267218447,0.0,9.934576960852269
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.44899653029006,0.0,10.088643809042622
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.555189564241374,0.0,10.2273039687407
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.650763292265708,0.0,10.352098109163052
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.73677964520897,0.0,10.464412832567831
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.814194360807107,0.0,10.565496080954347
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.883867602999715,0.0,10.65647100209219
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -9.946573519311926,0.0,10.738348428947262
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.003008842497877,0.0,10.812038111164696
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.053800632019716,0.0,10.878358823403488
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.099513241378418,0.0,10.938047462837204
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.140654588711357,0.0,10.991767236904451
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.177681800330134,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.211006289904219,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.24099832972638,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.267991164851253,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.292284715820074,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.314148911112824,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.333826686355025,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.351536683603854,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.367475680705553,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.381820777717053,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.394731364685384,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.406350892649073,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.416808467539369,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.426220284691311,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.434690919903659,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.442314491392807,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.449175705551283,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.455350798130326,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.46090838130425,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.46591020602827,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.470411848160637,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.474463325972437,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.47810965590648,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.48139135276017,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.484344879850255,0.0,10.999878825894712
+[12:49:40] [Server thread/WARN]: Boat (vehicle of tim127) moved too quickly! -10.487003054160908,0.0,10.999878825894712
+[12:50:58] [Server thread/WARN]: tim127 moved too quickly! -7.101613895329535,-7.1552320045165985,-0.15426769875131185
+[12:51:16] [Server thread/INFO]: <tim127> im getting lag
+[12:51:37] [Server thread/WARN]: tim127 moved too quickly! -7.264053541830947,-7.1552320045165985,0.19976838327960422
+[12:51:57] [Server thread/INFO]: <SweetPee823> it says you were moving too fast lol
+[12:52:02] [Server thread/INFO]: <tim127> wtf
+[12:52:09] [Server thread/INFO]: <SweetPee823> a lot of times actually
+[12:52:35] [Server thread/INFO]: <tim127> probably because it lags out and teleports me where i should be
+[12:52:41] [Server thread/INFO]: tim127 has made the advancement [Sweet dreams]
+[12:52:42] [Server thread/INFO]: John825 has made the advancement [Isn't It Iron Pick]
+[12:52:49] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[12:52:49] [Server thread/INFO]: SweetPee823 left the game
+[12:52:52] [Server thread/INFO]: John825 has made the advancement [Sweet dreams]
+[12:53:04] [Server thread/INFO]: John825 lost connection: Disconnected
+[12:53:04] [Server thread/INFO]: John825 left the game
+[12:53:17] [User Authenticator #4/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[12:53:17] [Server thread/INFO]: John825[/10.21.193.141:57237] logged in with entity id 26144 at (94.5, 71.0, 192.5)
+[12:53:17] [Server thread/INFO]: John825 joined the game
+[12:53:22] [User Authenticator #5/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[12:53:22] [Server thread/INFO]: SweetPee823[/10.21.35.205:53524] logged in with entity id 26584 at (400.58825934220494, 91.0, 129.34775408336327)
+[12:53:22] [Server thread/INFO]: SweetPee823 joined the game
+[12:53:22] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ff585b83-babf-4000-b495-10f617a20c5b
+[12:53:24] [Server thread/WARN]: tim127 moved too quickly! 10.12426784329459,0.0,0.0077708532700455635
+[12:53:32] [Server thread/INFO]: <SweetPee823> it says you moved too quickly again
+[12:53:36] [Server thread/INFO]: <SweetPee823> did you just like rubber band
+[12:53:40] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
+[12:53:51] [Server thread/INFO]: <tim127> yeeeeep
+[12:53:54] [Server thread/INFO]: <SweetPee823> lul
+[12:53:55] [Server thread/INFO]: John825 has made the advancement [Monster Hunter]
+[12:53:55] [Server thread/INFO]: <tim127> the lag is pretty bad
+[12:54:02] [Server thread/WARN]: Boat moved wrongly!
+[12:54:02] [Server thread/WARN]: Boat moved wrongly!
+[12:54:04] [Server thread/INFO]: <SweetPee823> im not getting any
+[12:54:09] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 370fa3cd-622c-4f22-8311-b13b5766d1d7
+[12:54:14] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID b41a7747-5d2a-46ee-b1b2-909324a39a15
+[12:55:41] [Server thread/WARN]: tim127 moved too quickly! -7.235571441946433,-7.1552320045165985,0.22992947692023336
+[12:55:46] [Server thread/INFO]: tim127 has made the advancement [Stone Age]
+[12:56:08] [Server thread/INFO]: John825 lost connection: Disconnected
+[12:56:08] [Server thread/INFO]: John825 left the game
+[12:56:11] [User Authenticator #6/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[12:56:11] [Server thread/INFO]: John825[/10.21.193.141:57242] logged in with entity id 33410 at (84.20859609691352, 75.0, 243.94864777903834)
+[12:56:11] [Server thread/INFO]: John825 joined the game
+[12:56:30] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
+[12:56:52] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 370fa3cd-622c-4f22-8311-b13b5766d1d7
+[12:56:56] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID b41a7747-5d2a-46ee-b1b2-909324a39a15
+[12:57:15] [Server thread/INFO]: tim127 has made the advancement [Getting an Upgrade]
+[12:57:19] [Server thread/INFO]: [SweetPee823: Opped John825]
+[12:57:30] [Server thread/INFO]: [SweetPee823: Opped tim127]
+[12:57:58] [Server thread/INFO]: <tim127> I AM GOD
+[12:58:08] [Server thread/INFO]: <SweetPee823> uh-oh
+[12:59:48] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID fc9f727e-17a2-4865-97bf-200e7ebfae28
+[13:03:15] [Server thread/INFO]: tim127 lost connection: Disconnected
+[13:03:15] [Server thread/INFO]: tim127 left the game

@@ -1,0 +1,34 @@
+[07:35:10] [Server thread/INFO]: Loading properties
+[07:35:10] [Server thread/INFO]: Default game type: SURVIVAL
+[07:35:10] [Server thread/INFO]: Generating keypair
+[07:35:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:35:11] [Server thread/INFO]: Using default channel type
+[07:35:11] [Server thread/INFO]: Preparing level "world"
+[07:35:11] [Server thread/INFO]: Loaded 488 advancements
+[07:35:11] [Server thread/INFO]: Preparing start region for level 0
+[07:35:11] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e96c7eee-3c0a-4674-9a27-0f01c556a45d
+[07:35:12] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 8b75311b-7d21-47e5-b197-067ecc98f901
+[07:35:12] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ae7294d0-0734-4df7-a811-3b78aa8d19ff
+[07:35:12] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
+[07:35:12] [Server thread/INFO]: Done (1.312s)! For help, type "help" or "?"
+[07:37:24] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[07:37:24] [Server thread/INFO]: SweetPee823[/10.21.121.19:55085] logged in with entity id 264 at (396.7685473883778, 92.0, 125.62489348110346)
+[07:37:24] [Server thread/INFO]: SweetPee823 joined the game
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 5ca64bd0-ecd3-443a-82e7-8025f2767c21
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b53b76e4-f498-43e8-aaba-af2765b9365e
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ff585b83-babf-4000-b495-10f617a20c5b
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 07f06a43-3a09-4d94-8e9b-eebf302510d9
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d01b4d66-a524-44f3-9fe3-a22ba09d9a6c
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 3a342cc3-4589-4d18-8879-fa3ef29220eb
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 053a0ce2-c55e-4c98-8d2c-90b9a27e33fe
+[07:37:24] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID adbeb6e5-fb26-457b-a0ee-ecd1b3855ad1
+[07:38:36] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[07:38:36] [Server thread/INFO]: SweetPee823 left the game
+[07:38:45] [Server thread/INFO]: Stopping the server
+[07:38:45] [Server thread/INFO]: Stopping server
+[07:38:45] [Server thread/INFO]: Saving players
+[07:38:45] [Server thread/INFO]: Saving worlds
+[07:38:45] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[07:38:45] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[07:38:45] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[07:38:45] [Server Shutdown Thread/INFO]: Stopping server

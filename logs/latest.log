@@ -1,35 +1,34 @@
-[15:35:15] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[15:35:15] [Server thread/INFO]: Loading properties
-[15:35:15] [Server thread/INFO]: Default game type: SURVIVAL
-[15:35:15] [Server thread/INFO]: Generating keypair
-[15:35:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:35:15] [Server thread/INFO]: Using default channel type
-[15:35:16] [Server thread/INFO]: Preparing level "world"
-[15:35:16] [Server thread/INFO]: Loaded 488 advancements
-[15:35:16] [Server thread/INFO]: Preparing start region for level 0
-[15:35:16] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e96c7eee-3c0a-4674-9a27-0f01c556a45d
-[15:35:16] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 8b75311b-7d21-47e5-b197-067ecc98f901
-[15:35:17] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ae7294d0-0734-4df7-a811-3b78aa8d19ff
-[15:35:17] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
-[15:35:17] [Server thread/INFO]: Done (1.145s)! For help, type "help" or "?"
-[15:35:53] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[15:35:53] [Server thread/INFO]: SweetPee823[/10.21.108.119:55672] logged in with entity id 380 at (394.26833330970885, 91.0, 137.0429313262307)
-[15:35:53] [Server thread/INFO]: SweetPee823 joined the game
-[15:35:53] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 5ca64bd0-ecd3-443a-82e7-8025f2767c21
-[15:35:53] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID b53b76e4-f498-43e8-aaba-af2765b9365e
-[15:35:53] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ff585b83-babf-4000-b495-10f617a20c5b
-[15:35:53] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 07f06a43-3a09-4d94-8e9b-eebf302510d9
-[15:35:54] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d01b4d66-a524-44f3-9fe3-a22ba09d9a6c
-[15:35:54] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 3a342cc3-4589-4d18-8879-fa3ef29220eb
-[15:35:54] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 053a0ce2-c55e-4c98-8d2c-90b9a27e33fe
-[15:35:54] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID adbeb6e5-fb26-457b-a0ee-ecd1b3855ad1
-[15:36:48] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[15:36:48] [Server thread/INFO]: SweetPee823 left the game
-[15:37:00] [Server thread/INFO]: Stopping the server
-[15:37:00] [Server thread/INFO]: Stopping server
-[15:37:00] [Server thread/INFO]: Saving players
-[15:37:00] [Server thread/INFO]: Saving worlds
-[15:37:00] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[15:37:00] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[15:37:00] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[15:37:01] [Server Shutdown Thread/INFO]: Stopping server
+[19:33:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:33:01] [Server thread/INFO]: Loading properties
+[19:33:01] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:01] [Server thread/INFO]: Generating keypair
+[19:33:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:02] [Server thread/INFO]: Using default channel type
+[19:33:02] [Server thread/INFO]: Preparing level "world"
+[19:33:02] [Server thread/INFO]: Loaded 488 advancements
+[19:33:02] [Server thread/INFO]: Preparing start region for level 0
+[19:33:03] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e96c7eee-3c0a-4674-9a27-0f01c556a45d
+[19:33:03] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 41486b61-8e8c-4023-a0d7-47437e7937b5
+[19:33:03] [Server thread/INFO]: Preparing spawn area: 22%
+[19:33:03] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 2b93505b-5849-4c93-92e0-181758c0abc0
+[19:33:04] [Server thread/ERROR]: Chunk file at 2,12 is in the wrong location; relocating. (Expected 2, 12, got 14, 21)
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 3fb1ea0e-dfdd-4cb9-b952-c9ad69f3433e
+[19:33:04] [Server thread/ERROR]: Chunk file at 4,18 is in the wrong location; relocating. (Expected 4, 18, got 14, 13)
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 1adbf8ed-8cb3-4043-b9b7-a151c5124261
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID c9f8428e-e6d4-4957-8ffb-fc34e1c4236f
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 8b75311b-7d21-47e5-b197-067ecc98f901
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 1e2bbde7-992d-469c-97fd-5ecc53a796f7
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 7e2b8b25-7c6d-434c-97fa-72872001a90e
+[19:33:04] [Server thread/ERROR]: Chunk file at 9,22 is in the wrong location; relocating. (Expected 9, 22, got 21, 13)
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID ae7294d0-0734-4df7-a811-3b78aa8d19ff
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 67baf25a-9506-443e-9f96-84d558616cf0
+[19:33:04] [Server thread/WARN]: Keeping entity minecraft:llama that already exists with UUID f6085714-dce9-419b-8ce2-f9637762b969
+[19:33:05] [Server thread/INFO]: Preparing spawn area: 95%
+[19:33:05] [Server thread/ERROR]: Chunk file at 18,5 is in the wrong location; relocating. (Expected 18, 5, got 6, 18)
+[19:33:05] [Server thread/INFO]: Done (2.606s)! For help, type "help" or "?"
+[19:33:08] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[19:33:08] [Server thread/INFO]: pieman63[/10.21.118.241:53721] logged in with entity id 357 at (98.36222312313534, 72.0, 221.03224290767469)
+[19:33:08] [Server thread/INFO]: pieman63 joined the game
+[19:33:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3399ms behind, skipping 67 tick(s)
+[19:33:28] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[19:33:28] [Server thread/INFO]: pieman63 left the game

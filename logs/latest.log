@@ -1,36 +1,36 @@
-[20:12:08] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[20:12:08] [Server thread/INFO]: Loading properties
-[20:12:08] [Server thread/INFO]: Default game type: SURVIVAL
-[20:12:08] [Server thread/INFO]: Generating keypair
-[20:12:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:12:08] [Server thread/INFO]: Using default channel type
-[20:12:09] [Server thread/INFO]: Preparing level "world"
-[20:12:09] [Server thread/INFO]: Loaded 488 advancements
-[20:12:09] [Server thread/INFO]: Preparing start region for level 0
-[20:12:10] [Server thread/INFO]: Preparing spawn area: 8%
-[20:12:11] [Server thread/INFO]: Preparing spawn area: 14%
-[20:12:13] [Server thread/INFO]: Preparing spawn area: 21%
-[20:12:14] [Server thread/INFO]: Preparing spawn area: 27%
-[20:12:15] [Server thread/INFO]: Preparing spawn area: 33%
-[20:12:16] [Server thread/INFO]: Preparing spawn area: 40%
-[20:12:17] [Server thread/INFO]: Preparing spawn area: 46%
-[20:12:18] [Server thread/INFO]: Preparing spawn area: 53%
-[20:12:19] [Server thread/INFO]: Preparing spawn area: 59%
-[20:12:20] [Server thread/INFO]: Preparing spawn area: 67%
-[20:12:21] [Server thread/INFO]: Preparing spawn area: 76%
-[20:12:22] [Server thread/INFO]: Preparing spawn area: 85%
-[20:12:23] [Server thread/INFO]: Preparing spawn area: 94%
-[20:12:23] [Server thread/INFO]: Done (14.836s)! For help, type "help" or "?"
-[20:12:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2122ms behind, skipping 42 tick(s)
-[20:12:44] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
-[20:12:44] [Server thread/INFO]: pieman63[/10.21.118.241:54673] logged in with entity id 2458 at (94.5, 73.0, 250.5)
-[20:12:44] [Server thread/INFO]: pieman63 joined the game
-[20:12:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4126ms behind, skipping 82 tick(s)
-[20:12:59] [Server thread/INFO]: Opped pieman63
-[20:13:02] [Server thread/INFO]: [pieman63: Set own game mode to Creative Mode]
-[20:13:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2295ms behind, skipping 45 tick(s)
-[20:13:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5274ms behind, skipping 105 tick(s)
-[20:14:17] [Server thread/INFO]: pieman63 lost connection: Disconnected
-[20:14:17] [Server thread/INFO]: pieman63 left the game
-[20:14:29] [Server thread/INFO]: Saving...
-[20:14:29] [Server thread/INFO]: Saved the world
+[20:27:23] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:27:23] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[20:27:23] [Server thread/INFO]: Loading properties
+[20:27:23] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_151]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
+[20:27:23] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:23] [Server thread/INFO]: Generating keypair
+[20:27:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:23] [Server thread/INFO]: Using default channel type
+[20:27:24] [Server thread/INFO]: Preparing level "world"
+[20:27:24] [Server thread/INFO]: Loaded 488 advancements
+[20:27:24] [Server thread/INFO]: Preparing start region for level 0
+[20:27:25] [Server thread/INFO]: Preparing spawn area: 22%
+[20:27:26] [Server thread/INFO]: Preparing spawn area: 63%
+[20:27:27] [Server thread/INFO]: Done (3.148s)! For help, type "help" or "?"
+[20:28:16] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[20:28:16] [Server thread/INFO]: pieman63[/10.21.118.241:54882] logged in with entity id 423 at (158.6999999880791, 74.0, 218.0476691971567)
+[20:28:16] [Server thread/INFO]: pieman63 joined the game
+[20:29:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2887ms behind, skipping 57 tick(s)
+[20:30:57] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[20:30:57] [Server thread/INFO]: pieman63 left the game
+[20:31:13] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[20:31:16] [Server thread/INFO]: Saving...
+[20:31:16] [Server thread/INFO]: Saved the world

@@ -1,113 +1,38 @@
-[18:07:17] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[18:07:17] [Server thread/INFO]: Loading properties
-[18:07:17] [Server thread/INFO]: Default game type: SURVIVAL
-[18:07:17] [Server thread/INFO]: Generating keypair
-[18:07:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:07:18] [Server thread/INFO]: Using default channel type
-[18:07:18] [Server thread/INFO]: Preparing level "world"
-[18:07:18] [Server thread/INFO]: Loaded 488 advancements
-[18:07:18] [Server thread/INFO]: Preparing start region for level 0
-[18:07:19] [Server thread/INFO]: Done (1.231s)! For help, type "help" or "?"
-[18:10:42] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
-[18:10:42] [Server thread/INFO]: pieman63[/10.21.105.238:50881] logged in with entity id 398 at (314.18040546964374, 64.0, 239.9058317872836)
-[18:10:42] [Server thread/INFO]: pieman63 joined the game
-[18:11:26] [Server thread/INFO]: [Server] penis
-[18:14:42] [User Authenticator #2/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
-[18:14:42] [Server thread/INFO]: John825[/10.21.156.14:52625] logged in with entity id 1980 at (276.86189254553574, 64.0, 179.29742799154968)
-[18:14:42] [Server thread/INFO]: John825 joined the game
-[18:15:06] [Server thread/INFO]: pieman63 has made the advancement [Diamonds!]
-[18:16:35] [User Authenticator #3/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[18:16:35] [Server thread/INFO]: SweetPee823[/10.21.106.184:51219] logged in with entity id 5941 at (301.30373722096596, 70.5, 132.47345950265046)
-[18:16:35] [Server thread/INFO]: SweetPee823 joined the game
-[18:19:56] [Server thread/INFO]: [pieman63: Given 27 experience to pieman63]
-[18:20:23] [Server thread/INFO]: [SweetPee823: Given 32 experience to SweetPee823]
-[18:21:01] [Server thread/INFO]: [SweetPee823: Given 300 experience to SweetPee823]
-[18:21:05] [Server thread/INFO]: [SweetPee823: Given 1000 experience to SweetPee823]
-[18:22:05] [Server thread/INFO]: pieman63 has made the advancement [We Need to Go Deeper]
-[18:22:05] [Server thread/WARN]: pieman63 moved too quickly! -153.02592251412207,15.0,-150.66677716759855
-[18:22:11] [Server thread/INFO]: pieman63 has made the advancement [A Terrible Fortress]
-[18:25:08] [Server thread/INFO]: pieman63 has made the advancement [Into Fire]
-[18:28:00] [Server thread/WARN]: pieman63 moved too quickly! 153.46265054486824,-15.0,149.1760172269943
-[18:28:20] [Server thread/INFO]: pieman63 has made the advancement [Suit Up]
-[18:28:50] [Server thread/INFO]: [pieman63: Set own game mode to Survival Mode]
-[18:29:34] [Server thread/INFO]: [pieman63: Given 1000 experience to pieman63]
-[18:29:40] [Server thread/INFO]: [pieman63: Given 200 experience to pieman63]
-[18:29:42] [Server thread/INFO]: [pieman63: Given 100 experience to pieman63]
-[18:30:13] [Server thread/WARN]: John825 moved wrongly!
-[18:30:45] [Server thread/INFO]: [pieman63: Set own game mode to Creative Mode]
-[18:30:59] [Server thread/INFO]: [pieman63: Set own game mode to Survival Mode]
-[18:32:25] [Server thread/WARN]: Boat moved wrongly!
-[18:32:25] [Server thread/WARN]: Boat moved wrongly!
-[18:32:25] [Server thread/WARN]: Boat moved wrongly!
-[18:32:25] [Server thread/WARN]: Boat moved wrongly!
-[18:32:49] [Server thread/WARN]: Boat moved wrongly!
-[18:32:49] [Server thread/WARN]: Boat moved wrongly!
-[18:32:49] [Server thread/WARN]: Boat moved wrongly!
-[18:32:49] [Server thread/WARN]: Boat moved wrongly!
-[18:32:49] [Server thread/WARN]: Boat moved wrongly!
-[18:32:49] [Server thread/WARN]: Boat moved wrongly!
-[18:32:50] [Server thread/WARN]: Boat moved wrongly!
-[18:32:50] [Server thread/WARN]: Boat moved wrongly!
-[18:32:50] [Server thread/WARN]: Boat moved wrongly!
-[18:32:50] [Server thread/WARN]: Boat moved wrongly!
-[18:32:50] [Server thread/WARN]: Boat moved wrongly!
-[18:32:50] [Server thread/WARN]: Boat moved wrongly!
-[18:32:51] [Server thread/WARN]: Boat moved wrongly!
-[18:32:51] [Server thread/WARN]: Boat moved wrongly!
-[18:32:51] [Server thread/WARN]: Boat moved wrongly!
-[18:32:51] [Server thread/WARN]: Boat moved wrongly!
-[18:32:51] [Server thread/WARN]: Boat moved wrongly!
-[18:33:24] [Server thread/WARN]: Boat moved wrongly!
-[18:33:31] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:32] [Server thread/WARN]: Boat moved wrongly!
-[18:33:36] [Server thread/WARN]: Boat moved wrongly!
-[18:33:37] [Server thread/WARN]: Boat moved wrongly!
-[18:33:51] [Server thread/WARN]: Boat moved wrongly!
-[18:33:52] [Server thread/WARN]: Boat moved wrongly!
-[18:34:17] [Server thread/WARN]: Boat moved wrongly!
-[18:34:17] [Server thread/WARN]: Boat moved wrongly!
-[18:34:19] [Server thread/WARN]: Boat moved wrongly!
-[18:34:19] [Server thread/WARN]: Boat moved wrongly!
-[18:34:20] [Server thread/WARN]: Boat moved wrongly!
-[18:34:22] [Server thread/WARN]: Boat moved wrongly!
-[18:34:23] [Server thread/WARN]: Boat moved wrongly!
-[18:34:23] [Server thread/WARN]: Boat moved wrongly!
-[18:34:23] [Server thread/WARN]: Boat moved wrongly!
-[18:35:28] [Server thread/WARN]: Boat moved wrongly!
-[18:35:28] [Server thread/WARN]: Boat moved wrongly!
-[18:37:42] [Server thread/INFO]: pieman63 lost connection: Disconnected
-[18:37:42] [Server thread/INFO]: pieman63 left the game
-[18:37:57] [Server thread/INFO]: John825 lost connection: Disconnected
-[18:37:57] [Server thread/INFO]: John825 left the game
-[18:38:04] [Server thread/INFO]: [SweetPee823: Saved the world]
-[18:42:03] [Server thread/INFO]: [SweetPee823: Saved the world]
-[18:42:05] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[18:42:05] [Server thread/INFO]: SweetPee823 left the game
-[18:42:19] [Server thread/INFO]: Stopping the server
-[18:42:19] [Server thread/INFO]: Stopping server
-[18:42:19] [Server thread/INFO]: Saving players
-[18:42:19] [Server thread/INFO]: Saving worlds
-[18:42:19] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:42:19] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[18:42:19] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[18:42:19] [Server Shutdown Thread/INFO]: Stopping server
-[18:42:19] [Server Shutdown Thread/INFO]: Saving players
-[18:42:19] [Server Shutdown Thread/INFO]: Saving worlds
-[18:42:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[18:42:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[18:42:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[12:22:59] [Server thread/INFO]: Loading properties
+[12:22:59] [Server thread/INFO]: Default game type: SURVIVAL
+[12:22:59] [Server thread/INFO]: Generating keypair
+[12:22:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:22:59] [Server thread/INFO]: Using default channel type
+[12:23:00] [Server thread/INFO]: Preparing level "world"
+[12:23:00] [Server thread/INFO]: Loaded 488 advancements
+[12:23:00] [Server thread/INFO]: Preparing start region for level 0
+[12:23:01] [Server thread/INFO]: Done (1.327s)! For help, type "help" or "?"
+[12:24:07] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[12:24:07] [Server thread/INFO]: SweetPee823[/10.21.121.36:50575] logged in with entity id 392 at (289.08446799574824, 70.0, 129.3252227191607)
+[12:24:07] [Server thread/INFO]: SweetPee823 joined the game
+[12:24:25] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[12:29:03] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[12:29:18] [Server thread/INFO]: SweetPee823 has made the advancement [Sweet dreams]
+[12:41:04] [Server thread/INFO]: [SweetPee823: Saved the world]
+[12:55:49] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[13:05:56] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[13:05:57] [Server thread/INFO]: [SweetPee823: Saved the world]
+[13:11:24] [Server thread/INFO]: SweetPee823 has made the advancement [A Seedy Place]
+[13:19:32] [Server thread/INFO]: [SweetPee823: Saved the world]
+[13:29:29] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[13:34:13] [Server thread/INFO]: [SweetPee823: Saved the world]
+[13:34:19] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[13:34:19] [Server thread/INFO]: SweetPee823 left the game
+[13:34:31] [Server thread/INFO]: Stopping the server
+[13:34:31] [Server thread/INFO]: Stopping server
+[13:34:31] [Server thread/INFO]: Saving players
+[13:34:31] [Server thread/INFO]: Saving worlds
+[13:34:31] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[13:34:31] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[13:34:31] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[13:34:32] [Server Shutdown Thread/INFO]: Stopping server
+[13:34:32] [Server Shutdown Thread/INFO]: Saving players
+[13:34:32] [Server Shutdown Thread/INFO]: Saving worlds
+[13:34:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[13:34:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[13:34:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

@@ -1,121 +1,108 @@
-[20:45:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[20:45:24] [Server thread/INFO]: Loading properties
-[20:45:24] [Server thread/INFO]: Default game type: SURVIVAL
-[20:45:24] [Server thread/INFO]: Generating keypair
-[20:45:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:45:24] [Server thread/INFO]: Using default channel type
-[20:45:24] [Server thread/INFO]: Preparing level "world"
-[20:45:24] [Server thread/INFO]: Loaded 488 advancements
-[20:45:24] [Server thread/INFO]: Preparing start region for level 0
-[20:45:25] [Server thread/INFO]: Preparing spawn area: 38%
-[20:45:26] [Server thread/INFO]: Done (2.059s)! For help, type "help" or "?"
-[20:45:45] [User Authenticator #1/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
-[20:45:45] [Server thread/INFO]: pieman63[/10.21.118.241:54995] logged in with entity id 434 at (161.23860112649697, 67.0, 223.90508603073417)
-[20:45:45] [Server thread/INFO]: pieman63 joined the game
-[20:45:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2160ms behind, skipping 43 tick(s)
-[20:48:07] [Server thread/INFO]: pieman63 lost connection: Disconnected
-[20:48:07] [Server thread/INFO]: pieman63 left the game
-[20:55:39] [User Authenticator #2/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
-[20:55:40] [Server thread/INFO]: pieman63[/10.21.118.241:55139] logged in with entity id 2411 at (156.88627041102853, 67.0, 204.07605414699682)
-[20:55:40] [Server thread/INFO]: pieman63 joined the game
-[20:55:48] [Server thread/INFO]: pieman63 lost connection: Disconnected
-[20:55:48] [Server thread/INFO]: pieman63 left the game
-[20:56:50] [User Authenticator #3/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
-[20:56:51] [Server thread/INFO]: pieman63[/10.21.118.241:55179] logged in with entity id 2634 at (156.33161544872547, 66.0, 200.98327899766576)
-[20:56:51] [Server thread/INFO]: pieman63 joined the game
-[20:56:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3563ms behind, skipping 71 tick(s)
-[20:57:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4374ms behind, skipping 87 tick(s)
-[21:07:14] [Server thread/INFO]: [pieman63: Saved the world]
-[21:09:48] [User Authenticator #4/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
-[21:09:48] [Server thread/INFO]: John825[/10.21.198.240:50382] logged in with entity id 12567 at (96.5, 72.0, 255.5)
-[21:09:48] [Server thread/INFO]: John825 joined the game
-[21:10:11] [Server thread/INFO]: [pieman63: Opped John825]
-[21:10:16] [Server thread/INFO]: [John825: Set own game mode to Creative Mode]
-[21:11:47] [Server thread/INFO]: John825 has made the advancement [Best Friends Forever]
-[21:16:41] [Server thread/WARN]: John825 moved too quickly! 8.194526625690344,0.1068242586678565,-6.5586474022258585
-[21:16:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5761ms behind, skipping 115 tick(s)
-[21:16:50] [Server thread/WARN]: John825 moved too quickly! -8.708308846803448,0.0,5.430162249506765
-[21:16:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2458ms behind, skipping 49 tick(s)
-[21:17:24] [Server thread/INFO]: John825 has made the advancement [Ice Bucket Challenge]
-[21:17:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2410ms behind, skipping 48 tick(s)
-[21:20:06] [User Authenticator #5/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[21:20:06] [Server thread/INFO]: SweetPee823[/10.21.108.119:57058] logged in with entity id 20055 at (91.5, 73.0, 247.5)
-[21:20:06] [Server thread/INFO]: SweetPee823 joined the game
-[21:20:22] [Server thread/INFO]: John825 has made the advancement [We Need to Go Deeper]
-[21:20:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8884ms behind, skipping 177 tick(s)
-[21:20:22] [Server thread/WARN]: John825 moved too quickly! -153.2166590127672,15.0,-150.52631051040575
-[21:20:38] [Server thread/INFO]: John825 has made the advancement [Stone Age]
-[21:20:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10852ms behind, skipping 217 tick(s)
-[21:21:13] [Server thread/INFO]: [pieman63: Opped SweetPee823]
-[21:21:24] [Server thread/WARN]: pieman63 moved too quickly! 0.022757242563187674,0.0,10.22109780444353
-[21:21:24] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
-[21:21:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2127ms behind, skipping 42 tick(s)
-[21:21:25] [Server thread/WARN]: John825 moved too quickly! 152.5817022273051,-15.0,149.79195443083233
-[21:22:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
-[21:22:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4182ms behind, skipping 83 tick(s)
-[21:22:57] [Server thread/INFO]: pieman63 has made the advancement [Monster Hunter]
-[21:29:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
-[21:29:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2350ms behind, skipping 47 tick(s)
-[21:30:32] [Server thread/WARN]: SweetPee823 moved too quickly! -0.6701905760733098,-11.095336265254247,-0.738971696077158
-[21:30:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2122ms behind, skipping 42 tick(s)
-[21:32:58] [Server thread/INFO]: John825 lost connection: Kicked by an operator.
-[21:32:58] [Server thread/INFO]: John825 left the game
-[21:32:58] [Server thread/INFO]: [pieman63: Kicked John825 from the game]
-[21:32:58] [Server thread/WARN]: handleDisconnection() called twice
-[21:33:03] [User Authenticator #6/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
-[21:33:04] [Server thread/INFO]: John825[/10.21.198.240:50442] logged in with entity id 39497 at (159.1841959788753, 67.0, 215.85890544829255)
-[21:33:04] [Server thread/INFO]: John825 joined the game
-[21:33:12] [Server thread/WARN]: SweetPee823 moved too quickly! -0.17911868853701662,-0.34868719665989545,-10.043015572433035
-[21:33:30] [Server thread/WARN]: SweetPee823 moved too quickly! 8.186127036767687,1.4456238691694097,-5.751214070842252
-[21:35:07] [Server thread/INFO]: SweetPee823 has made the advancement [Enchanter]
-[21:35:48] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
-[21:39:29] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
-[21:41:05] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
-[21:41:25] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
-[21:47:46] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[21:47:46] [Server thread/INFO]: SweetPee823 left the game
-[21:48:01] [Server thread/WARN]: John825 moved too quickly! 4.321108217968771,-1.3562400538921366,8.936690719532407
-[21:52:35] [User Authenticator #7/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[21:52:36] [Server thread/INFO]: SweetPee823[/10.21.108.119:57097] logged in with entity id 64426 at (289.1567666631695, 65.0, 136.5217515137025)
-[21:52:36] [Server thread/INFO]: SweetPee823 joined the game
-[21:53:02] [Server thread/INFO]: SweetPee823 has made the advancement [Hot Stuff]
-[21:53:59] [Server thread/INFO]: SweetPee823 has made the advancement [Acquire Hardware]
-[21:55:09] [Server thread/INFO]: SweetPee823 has made the advancement [Diamonds!]
-[21:58:33] [Server thread/INFO]: pieman63 has made the advancement [Stone Age]
-[21:58:56] [Server thread/INFO]: John825 has made the advancement [Acquire Hardware]
-[21:59:18] [Server thread/INFO]: John825 has made the advancement [Suit Up]
-[22:00:12] [Server thread/INFO]: SweetPee823 has made the advancement [Stone Age]
-[22:03:13] [Server thread/WARN]: SweetPee823 moved too quickly! 9.148024730772818,0.7331973717126914,-4.976309463722544
-[22:07:30] [Server thread/INFO]: pieman63 lost connection: Disconnected
-[22:07:30] [Server thread/INFO]: pieman63 left the game
-[22:07:56] [Server thread/INFO]: John825 lost connection: Disconnected
-[22:07:56] [Server thread/INFO]: John825 left the game
-[22:08:26] [Server thread/INFO]: Saving...
-[22:08:26] [Server thread/INFO]: Saved the world
-[22:10:13] [Server thread/INFO]: [SweetPee823: Toggled downfall]
-[22:10:16] [Server thread/INFO]: [SweetPee823: Set the time to 0]
-[22:20:40] [Server thread/INFO]: Saving...
-[22:20:40] [Server thread/INFO]: Saved the world
-[22:20:40] [Server thread/INFO]: [SweetPee823: Toggled downfall]
-[22:37:04] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
-[22:37:20] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
-[22:37:25] [Server thread/INFO]: SweetPee823 has made the advancement [Suit Up]
-[22:37:59] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
-[22:38:20] [Server thread/INFO]: [SweetPee823: Saved the world]
-[22:38:57] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[22:38:57] [Server thread/INFO]: SweetPee823 left the game
-[22:41:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[22:41:21] [Server thread/INFO]: Saving...
-[22:41:21] [Server thread/INFO]: Saved the world
-[22:41:23] [Server thread/INFO]: Stopping server
-[22:41:23] [Server thread/INFO]: Saving players
-[22:41:23] [Server thread/INFO]: Saving worlds
-[22:41:23] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[22:41:23] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[22:41:23] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[22:41:23] [Server Shutdown Thread/INFO]: Stopping server
-[22:41:23] [Server Shutdown Thread/INFO]: Saving players
-[22:41:23] [Server Shutdown Thread/INFO]: Saving worlds
-[22:41:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[22:41:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[22:41:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[14:35:50] [Server thread/INFO]: Loading properties
+[14:35:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:35:50] [Server thread/INFO]: Generating keypair
+[14:35:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:35:50] [Server thread/INFO]: Using default channel type
+[14:35:51] [Server thread/INFO]: Preparing level "world"
+[14:35:51] [Server thread/INFO]: Loaded 488 advancements
+[14:35:51] [Server thread/INFO]: Preparing start region for level 0
+[14:35:52] [Server thread/INFO]: Done (1.070s)! For help, type "help" or "?"
+[14:36:50] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[14:36:51] [Server thread/INFO]: SweetPee823[/10.21.106.184:50654] logged in with entity id 401 at (279.5166475575987, 64.0, 131.23821030170063)
+[14:36:51] [Server thread/INFO]: SweetPee823 joined the game
+[14:37:48] [Server thread/INFO]: SweetPee823 has made the advancement [Monster Hunter]
+[14:38:31] [User Authenticator #2/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[14:38:31] [Server thread/INFO]: John825[/10.21.156.14:62558] logged in with entity id 1455 at (234.51249998807907, 63.0, 297.6939701918732)
+[14:38:31] [Server thread/INFO]: John825 joined the game
+[14:45:12] [Server thread/INFO]: John825 has reached the goal [Sky's the Limit]
+[15:05:01] [Server thread/INFO]: [SweetPee823: Saved the world]
+[15:06:21] [Server thread/INFO]: [John825: Set own game mode to Survival Mode]
+[15:06:37] [Server thread/INFO]: [John825: Set own game mode to Creative Mode]
+[15:06:46] [Server thread/INFO]: John825 has made the advancement [Isn't It Iron Pick]
+[15:06:56] [Server thread/INFO]: [John825: Set own game mode to Survival Mode]
+[15:13:11] [Server thread/WARN]: John825 moved wrongly!
+[15:14:04] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[15:15:26] [Server thread/INFO]: John825 has made the advancement [Monster Hunter]
+[15:27:35] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[15:28:34] [Server thread/INFO]: [SweetPee823: Saved the world]
+[15:30:49] [Server thread/INFO]: [SweetPee823: Saved the world]
+[15:30:52] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[15:39:34] [Server thread/INFO]: SweetPee823 was slain by Zombie
+[15:42:01] [Server thread/INFO]: SweetPee823 fell from a high place
+[15:42:17] [User Authenticator #3/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[15:42:17] [Server thread/INFO]: John825 lost connection: Disconnected
+[15:42:17] [Server thread/INFO]: John825 left the game
+[15:42:18] [Server thread/WARN]: handleDisconnection() called twice
+[15:42:18] [Server thread/INFO]: John825[/10.21.156.14:64406] logged in with entity id 81861 at (242.38092745320617, 64.0, 254.10069772929063)
+[15:42:18] [Server thread/INFO]: John825 joined the game
+[15:43:48] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[15:55:30] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[16:01:08] [Server thread/INFO]: [SweetPee823: Saved the world]
+[16:03:36] [Server thread/INFO]: SweetPee823 has made the advancement [Best Friends Forever]
+[16:09:14] [Server thread/INFO]: [SweetPee823: Toggled downfall]
+[16:15:33] [User Authenticator #4/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[16:15:33] [Server thread/INFO]: pieman63[/10.21.105.238:50176] logged in with entity id 134270 at (162.05494152837196, 59.0, 222.69999998807907)
+[16:15:33] [Server thread/INFO]: pieman63 joined the game
+[16:16:01] [Server thread/INFO]: [John825: Set own game mode to Creative Mode]
+[16:16:21] [Server thread/INFO]: [John825: Set own game mode to Survival Mode]
+[16:16:52] [Server thread/INFO]: John825 lost connection: Disconnected
+[16:16:52] [Server thread/INFO]: John825 left the game
+[16:20:09] [User Authenticator #5/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[16:20:09] [Server thread/INFO]: John825[/10.21.156.14:49162] logged in with entity id 138309 at (281.63673326064355, 64.0, 156.83041462137604)
+[16:20:09] [Server thread/INFO]: John825 joined the game
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:24:08] [Server thread/WARN]: Boat moved wrongly!
+[16:27:50] [Server thread/INFO]: John825 has made the advancement [Sweet dreams]
+[16:33:24] [Server thread/INFO]: John825 has made the advancement [Not Today, Thank You]
+[16:34:45] [Server thread/INFO]: John825 lost connection: Disconnected
+[16:34:45] [Server thread/INFO]: John825 left the game
+[16:36:37] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[16:36:37] [Server thread/INFO]: SweetPee823 left the game
+[16:56:33] [Server thread/INFO]: [Server] helloooooo
+[16:57:00] [Server thread/INFO]: Saving...
+[16:57:00] [Server thread/INFO]: Saved the world
+[16:57:13] [Server thread/INFO]: You whisper to pieman63: penis
+[16:58:02] [User Authenticator #6/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[16:58:02] [Server thread/INFO]: SweetPee823[/10.21.106.184:50979] logged in with entity id 163316 at (298.4596622870215, 77.5, 148.87661154636956)
+[16:58:02] [Server thread/INFO]: SweetPee823 joined the game
+[16:58:36] [User Authenticator #7/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
+[16:58:36] [Server thread/INFO]: John825[/10.21.156.14:50292] logged in with entity id 163976 at (224.44997780659037, 63.0, 242.00299542643887)
+[16:58:36] [Server thread/INFO]: John825 joined the game
+[17:01:47] [Server thread/INFO]: John825 has made the advancement [Take Aim]
+[17:02:31] [Server thread/WARN]: Boat moved wrongly!
+[17:03:06] [Server thread/WARN]: John825 moved wrongly!
+[17:08:16] [Server thread/WARN]: John825 moved wrongly!
+[17:11:23] [Server thread/INFO]: pieman63 has made the advancement [A Seedy Place]
+[17:19:38] [Server thread/INFO]: John825 has made the advancement [A Seedy Place]
+[17:21:52] [Server thread/INFO]: John825 has made the advancement [The Parrots and the Bats]
+[17:21:59] [Server thread/INFO]: SweetPee823 has made the advancement [The Parrots and the Bats]
+[17:28:40] [Server thread/INFO]: pieman63 has made the advancement [Acquire Hardware]
+[17:31:14] [Server thread/INFO]: [SweetPee823: Saved the world]
+[17:34:34] [Server thread/INFO]: John825 lost connection: Disconnected
+[17:34:34] [Server thread/INFO]: John825 left the game
+[17:34:34] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[17:34:34] [Server thread/INFO]: SweetPee823 left the game
+[17:34:51] [Server thread/INFO]: Saving...
+[17:34:51] [Server thread/INFO]: Saved the world
+[17:34:53] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[17:34:53] [Server thread/INFO]: pieman63 left the game
+[17:35:00] [Server thread/INFO]: Stopping the server
+[17:35:00] [Server thread/INFO]: Stopping server
+[17:35:00] [Server thread/INFO]: Saving players
+[17:35:00] [Server thread/INFO]: Saving worlds
+[17:35:00] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[17:35:00] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:35:00] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[17:35:00] [Server Shutdown Thread/INFO]: Stopping server
+[17:35:00] [Server Shutdown Thread/INFO]: Saving players
+[17:35:00] [Server Shutdown Thread/INFO]: Saving worlds
+[17:35:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[17:35:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:35:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

@@ -1,134 +1,85 @@
-[18:20:50] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[18:20:50] [Server thread/INFO]: Loading properties
-[18:20:50] [Server thread/INFO]: Default game type: SURVIVAL
-[18:20:50] [Server thread/INFO]: Generating keypair
-[18:20:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:20:50] [Server thread/INFO]: Using default channel type
-[18:20:50] [Server thread/INFO]: Preparing level "world"
-[18:20:50] [Server thread/INFO]: Loaded 488 advancements
-[18:20:51] [Server thread/INFO]: Preparing start region for level 0
-[18:20:52] [Server thread/INFO]: Done (1.302s)! For help, type "help" or "?"
-[18:21:36] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[18:21:36] [Server thread/INFO]: SweetPee823[/10.21.131.246:51145] logged in with entity id 390 at (316.19845666791696, 65.0, 136.75662676934354)
-[18:21:36] [Server thread/INFO]: SweetPee823 joined the game
-[18:22:27] [User Authenticator #2/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
-[18:22:27] [Server thread/INFO]: tim127[/10.21.175.29:53873] logged in with entity id 937 at (91.5, 73.0, 252.5)
-[18:22:27] [Server thread/INFO]: tim127 joined the game
-[18:22:32] [Server thread/INFO]: <SweetPee823> ayyyyyyyyy
-[18:22:39] [Server thread/INFO]: <tim127> das donde?
-[18:22:52] [Server thread/INFO]: <SweetPee823> what are your coords
-[18:23:01] [Server thread/INFO]: [SweetPee823: Opped tim127]
-[18:23:10] [Server thread/INFO]: <tim127> 63/88/252
-[18:23:18] [Server thread/INFO]: <SweetPee823> also if you want you can go in creative and get back to where you were when we reset the server
-[18:23:27] [Server thread/INFO]: [tim127: Set own game mode to Survival Mode]
-[18:23:48] [Server thread/INFO]: [tim127: Set own game mode to Creative Mode]
-[18:24:11] [Server thread/INFO]: <SweetPee823> did you find us
-[18:24:15] [Server thread/INFO]: <tim127> yep
-[18:26:42] [Server thread/INFO]: tim127 has made the advancement [Getting an Upgrade]
-[18:27:45] [Server thread/INFO]: [tim127: Set own game mode to Survival Mode]
-[18:27:56] [Server thread/INFO]: tim127 lost connection: Disconnected
-[18:27:56] [Server thread/INFO]: tim127 left the game
-[18:27:59] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[18:27:59] [Server thread/INFO]: SweetPee823 left the game
-[18:54:03] [User Authenticator #3/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[18:54:03] [Server thread/INFO]: SweetPee823[/10.21.131.246:51233] logged in with entity id 10589 at (282.78045253484004, 65.0, 126.73543306958456)
-[18:54:03] [Server thread/INFO]: SweetPee823 joined the game
-[18:54:14] [User Authenticator #4/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
-[18:54:14] [Server thread/INFO]: tim127[/10.21.175.29:53946] logged in with entity id 10874 at (189.49226673074082, 69.0, 90.77547813544649)
-[18:54:14] [Server thread/INFO]: tim127 joined the game
-[18:54:17] [Server thread/INFO]: <SweetPee823> ayayayay
-[18:54:52] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[18:54:52] [Server thread/INFO]: SweetPee823 left the game
-[18:55:59] [Server thread/INFO]: tim127 has made the advancement [Monster Hunter]
-[18:58:46] [Server thread/WARN]: tim127 moved too quickly! 2.823909193003317,0.0,9.729602476910358
-[18:58:57] [Server thread/INFO]: tim127 was slain by Zombie
-[19:01:34] [User Authenticator #5/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[19:01:34] [Server thread/INFO]: SweetPee823[/10.21.131.246:51356] logged in with entity id 17763 at (299.6364565825224, 70.0, 130.2789269804809)
-[19:01:34] [Server thread/INFO]: SweetPee823 joined the game
-[19:01:56] [User Authenticator #6/INFO]: UUID of player John825 is 1268bdff-7a6c-4438-a3fa-7df24164ee4a
-[19:01:57] [Server thread/INFO]: John825[/10.21.198.1:59006] logged in with entity id 18443 at (172.69999998807907, 67.0, 208.16669502743855)
-[19:01:57] [Server thread/INFO]: John825 joined the game
-[19:01:59] [Server thread/INFO]: tim127 has made the advancement [Stone Age]
-[19:05:45] [Server thread/INFO]: tim127 lost connection: Disconnected
-[19:05:45] [Server thread/INFO]: tim127 left the game
-[19:05:48] [User Authenticator #7/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
-[19:05:48] [Server thread/INFO]: tim127[/10.21.175.29:53973] logged in with entity id 25404 at (192.41388220349953, 68.94602408668781, 78.38913557918093)
-[19:05:48] [Server thread/INFO]: tim127 joined the game
-[19:05:53] [Server thread/INFO]: tim127 lost connection: Disconnected
-[19:05:53] [Server thread/INFO]: tim127 left the game
-[19:06:08] [User Authenticator #8/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
-[19:06:08] [Server thread/INFO]: tim127[/10.21.175.29:53987] logged in with entity id 26073 at (192.41388220349953, 68.94602408668781, 78.38913557918093)
-[19:06:08] [Server thread/INFO]: tim127 joined the game
-[19:06:11] [Server thread/INFO]: <SweetPee823> hello
-[19:06:18] [Server thread/INFO]: <tim127> im stuuuuuuuuck
-[19:06:21] [Server thread/INFO]: <SweetPee823> hwere lol
-[19:06:27] [Server thread/INFO]: <tim127> here
-[19:06:35] [Server thread/INFO]: <SweetPee823> how are you stuck
-[19:06:46] [Server thread/INFO]: <tim127> idk its freaking out
-[19:06:54] [Server thread/INFO]: <SweetPee823> where are you
-[19:06:58] [Server thread/INFO]: <tim127> wait now im good
-[19:07:03] [Server thread/INFO]: <SweetPee823> wtf lol
-[19:07:12] [Server thread/WARN]: SweetPee823 was kicked for floating too long!
-[19:07:12] [Server thread/INFO]: SweetPee823 lost connection: Flying is not enabled on this server
-[19:07:12] [Server thread/INFO]: SweetPee823 left the game
-[19:07:12] [Server thread/WARN]: handleDisconnection() called twice
-[19:07:21] [User Authenticator #9/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[19:07:21] [Server thread/INFO]: SweetPee823[/10.21.131.246:51382] logged in with entity id 27916 at (199.01647227884823, 62.07326432528966, 113.50359549811265)
-[19:07:21] [Server thread/INFO]: SweetPee823 joined the game
-[19:07:30] [Server thread/INFO]: <SweetPee823> just got kicked for flying lol
-[19:07:48] [Server thread/INFO]: <tim127> HES HACKING
-[19:07:54] [Server thread/INFO]: <SweetPee823> ERMAGERD
-[19:08:06] [Server thread/INFO]: <tim127> damn it happened again
-[19:08:58] [Server thread/INFO]: <SweetPee823> huh
-[19:09:07] [Server thread/INFO]: <tim127> come here
-[19:09:12] [Server thread/INFO]: <tim127> look at this madness
-[19:09:32] [Server thread/INFO]: <SweetPee823> hi
-[19:09:49] [Server thread/INFO]: <SweetPee823> your moving weird
-[19:10:21] [Server thread/INFO]: <SweetPee823> wtf lol
-[19:10:24] [Server thread/INFO]: <SweetPee823> u floatin
-[19:10:46] [Server thread/INFO]: <SweetPee823> hahahah what is going on
-[19:10:56] [Server thread/WARN]: tim127 was kicked for floating too long!
-[19:10:56] [Server thread/INFO]: tim127 lost connection: Flying is not enabled on this server
-[19:10:56] [Server thread/INFO]: tim127 left the game
-[19:16:49] [Server thread/WARN]: Boat moved wrongly!
-[19:17:10] [Server thread/WARN]: John825 moved wrongly!
-[19:36:45] [Server thread/WARN]: John825 moved wrongly!
-[19:50:38] [Server thread/INFO]: John825 lost connection: Disconnected
-[19:50:38] [Server thread/INFO]: John825 left the game
-[20:29:52] [Server thread/INFO]: [SweetPee823: Saved the world]
-[20:29:55] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[20:29:55] [Server thread/INFO]: SweetPee823 left the game
-[21:07:33] [User Authenticator #10/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[21:07:33] [Server thread/INFO]: SweetPee823[/10.21.131.246:51524] logged in with entity id 113369 at (310.059423500403, 65.0, 132.72282569379286)
-[21:07:33] [Server thread/INFO]: SweetPee823 joined the game
-[21:28:57] [Server thread/INFO]: [SweetPee823: Saved the world]
-[21:31:10] [User Authenticator #11/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
-[21:31:10] [Server thread/INFO]: tim127[/10.21.175.29:54361] logged in with entity id 133213 at (182.51375220843906, 69.0, 76.0945775918854)
-[21:31:10] [Server thread/INFO]: tim127 joined the game
-[21:31:17] [Server thread/INFO]: <SweetPee823> hai
-[21:31:26] [Server thread/INFO]: tim127 lost connection: Timed out
-[21:31:26] [Server thread/INFO]: tim127 left the game
-[21:31:30] [User Authenticator #12/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
-[21:31:30] [Server thread/INFO]: tim127[/10.21.175.29:54367] logged in with entity id 133963 at (182.51375220843906, 69.0, 76.0945775918854)
-[21:31:30] [Server thread/INFO]: tim127 joined the game
-[21:31:41] [Server thread/INFO]: <SweetPee823> :,(
-[21:32:57] [Server thread/INFO]: <SweetPee823> tom we're watching nathan for you if you wanna join
-[21:33:08] [Server thread/INFO]: <tim127> dope
-[21:33:16] [Server thread/INFO]: tim127 lost connection: Disconnected
-[21:33:16] [Server thread/INFO]: tim127 left the game
-[21:33:30] [Server thread/INFO]: [SweetPee823: Saved the world]
-[21:33:31] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[21:33:31] [Server thread/INFO]: SweetPee823 left the game
-[21:33:43] [Server thread/INFO]: Stopping the server
-[21:33:43] [Server thread/INFO]: Stopping server
-[21:33:43] [Server thread/INFO]: Saving players
-[21:33:43] [Server thread/INFO]: Saving worlds
-[21:33:43] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[21:33:43] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[21:33:43] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[21:33:43] [Server Shutdown Thread/INFO]: Stopping server
-[21:33:43] [Server Shutdown Thread/INFO]: Saving players
-[21:33:43] [Server Shutdown Thread/INFO]: Saving worlds
-[21:33:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[21:33:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[21:33:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[10:19:40] [Server thread/INFO]: Loading properties
+[10:19:40] [Server thread/INFO]: Default game type: SURVIVAL
+[10:19:40] [Server thread/INFO]: Generating keypair
+[10:19:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:19:40] [Server thread/INFO]: Using default channel type
+[10:19:40] [Server thread/INFO]: Preparing level "world"
+[10:19:40] [Server thread/INFO]: Loaded 488 advancements
+[10:19:40] [Server thread/INFO]: Preparing start region for level 0
+[10:19:41] [Server thread/INFO]: Done (1.054s)! For help, type "help" or "?"
+[10:20:58] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[10:20:59] [Server thread/INFO]: SweetPee823[/10.21.131.246:52017] logged in with entity id 387 at (309.618675101964, 65.0, 135.11035994021643)
+[10:20:59] [Server thread/INFO]: SweetPee823 joined the game
+[10:21:55] [User Authenticator #2/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
+[10:21:55] [Server thread/INFO]: tim127[/10.21.175.29:54837] logged in with entity id 987 at (191.5723570011248, 68.0, 87.29078766477593)
+[10:21:55] [Server thread/INFO]: tim127 joined the game
+[10:22:00] [Server thread/INFO]: <SweetPee823> hey
+[10:22:03] [Server thread/INFO]: <tim127> yoyoyo
+[10:22:13] [Server thread/INFO]: <SweetPee823> yo do you mind disconnecting for 2 seconds
+[10:22:15] [Server thread/INFO]: <SweetPee823> im sleeping
+[10:22:16] [Server thread/INFO]: tim127 lost connection: Disconnected
+[10:22:16] [Server thread/INFO]: tim127 left the game
+[10:22:23] [User Authenticator #3/INFO]: UUID of player tim127 is a763c028-7345-46f0-ad74-139e15d315d0
+[10:22:23] [Server thread/INFO]: tim127[/10.21.175.29:54841] logged in with entity id 1463 at (179.48256806566945, 68.0, 79.94506143097398)
+[10:22:23] [Server thread/INFO]: tim127 joined the game
+[10:22:25] [Server thread/INFO]: <SweetPee823> we good
+[10:22:27] [Server thread/INFO]: <SweetPee823> thx
+[10:23:59] [User Authenticator #4/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[10:23:59] [Server thread/INFO]: pieman63[/10.21.133.142:54613] logged in with entity id 3689 at (158.6243140971734, 59.0, 216.4595148743641)
+[10:23:59] [Server thread/INFO]: pieman63 joined the game
+[10:25:14] [Server thread/INFO]: <tim127> anyone have extra cobble?
+[10:25:41] [Server thread/INFO]: <SweetPee823> no sorry
+[10:26:17] [Server thread/WARN]: tim127 moved too quickly! 4.274655810015361,0.0,9.111454440656402
+[10:26:29] [Server thread/WARN]: tim127 moved too quickly! 9.84858137700968,0.0,2.394180040649786
+[10:26:42] [Server thread/INFO]: tim127 was slain by Silverfish
+[10:26:42] [Server thread/WARN]: tim127 moved too quickly! -6.433079474194187,0.0,-7.706499747297727
+[10:26:45] [Server thread/INFO]: <SweetPee823> wat
+[10:26:47] [Server thread/INFO]: <pieman63> lmao
+[10:27:01] [Server thread/INFO]: <tim127> i destroied 1 stone brick...l..
+[10:27:10] [Server thread/INFO]: <pieman63> lmao sorry bro
+[10:27:14] [Server thread/INFO]: <SweetPee823> boi did you spawn in monster stone instead of regular brickss lol
+[10:27:26] [Server thread/INFO]: <tim127> nope normal stone
+[10:27:32] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
+[10:28:02] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
+[10:28:04] [Server thread/INFO]: <SweetPee823> ok haha
+[10:28:45] [Server thread/INFO]: [tim127: Set own game mode to Creative Mode]
+[10:28:57] [Server thread/INFO]: <SweetPee823> you can tell because they take really llong to break
+[10:29:25] [Server thread/INFO]: [SweetPee823: Set own game mode to Creative Mode]
+[10:30:02] [Server thread/INFO]: [SweetPee823: Set own game mode to Survival Mode]
+[10:30:39] [Server thread/WARN]: tim127 moved too quickly! -5.218903816672082,5.592587902217396,-6.460695464436199
+[10:30:52] [Server thread/INFO]: [tim127: Set own game mode to Survival Mode]
+[10:33:39] [Server thread/INFO]: pieman63 has made the advancement [The Parrots and the Bats]
+[10:36:22] [Server thread/WARN]: pieman63 moved too quickly! -153.78457562305834,15.0,-149.53809794661854
+[10:38:17] [Server thread/WARN]: pieman63 moved too quickly! 152.9805722925962,-15.0,149.92910621934644
+[10:38:34] [Server thread/WARN]: tim127 moved too quickly! -9.858418337552166,0.0,-1.7486361491794753
+[10:38:59] [Server thread/WARN]: tim127 moved too quickly! -9.966064562418438,-0.2468000194787976,-1.0553665236605667
+[10:42:29] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[10:42:29] [Server thread/INFO]: pieman63 left the game
+[10:48:16] [Server thread/WARN]: tim127 moved too quickly! 9.029028956515845,0.0,-4.572272436244788
+[10:48:54] [Server thread/WARN]: tim127 moved too quickly! 6.843674960772972,0.0,7.517698294553071
+[10:50:18] [Server thread/WARN]: tim127 moved too quickly! -9.709119516823733,0.0,2.9919142481918044
+[10:52:23] [Server thread/WARN]: tim127 moved too quickly! -4.08095464174653,-1.1767592750642422,-9.350223259843403
+[11:03:39] [Server thread/INFO]: tim127 lost connection: Disconnected
+[11:03:39] [Server thread/INFO]: tim127 left the game
+[11:16:45] [Server thread/INFO]: [SweetPee823: Saved the world]
+[11:16:46] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[11:16:46] [Server thread/INFO]: SweetPee823 left the game
+[11:19:57] [User Authenticator #5/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[11:19:57] [Server thread/INFO]: SweetPee823[/10.21.131.246:52243] logged in with entity id 55650 at (319.8473379686264, 65.0, 134.0206356063467)
+[11:19:57] [Server thread/INFO]: SweetPee823 joined the game
+[11:28:07] [Server thread/INFO]: [SweetPee823: Saved the world]
+[11:28:09] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[11:28:09] [Server thread/INFO]: SweetPee823 left the game
+[11:28:24] [Server thread/INFO]: Stopping the server
+[11:28:24] [Server thread/INFO]: Stopping server
+[11:28:24] [Server thread/INFO]: Saving players
+[11:28:24] [Server thread/INFO]: Saving worlds
+[11:28:24] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[11:28:24] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[11:28:24] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[11:28:24] [Server Shutdown Thread/INFO]: Stopping server
+[11:28:24] [Server Shutdown Thread/INFO]: Saving players
+[11:28:24] [Server Shutdown Thread/INFO]: Saving worlds
+[11:28:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[11:28:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[11:28:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

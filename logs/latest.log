@@ -1,27 +1,40 @@
-[07:44:57] [Server thread/INFO]: Loading properties
-[07:44:57] [Server thread/INFO]: Default game type: SURVIVAL
-[07:44:57] [Server thread/INFO]: Generating keypair
-[07:44:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:44:57] [Server thread/INFO]: Using default channel type
-[07:44:57] [Server thread/INFO]: Preparing level "world"
-[07:44:57] [Server thread/INFO]: Loaded 488 advancements
-[07:44:57] [Server thread/INFO]: Preparing start region for level 0
-[07:44:58] [Server thread/INFO]: Done (1.138s)! For help, type "help" or "?"
-[07:46:13] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[07:46:14] [Server thread/INFO]: SweetPee823[/10.21.201.254:50040] logged in with entity id 449 at (162.9705581515681, 66.9375, 209.8913688457756)
-[07:46:14] [Server thread/INFO]: SweetPee823 joined the game
-[08:19:11] [Server thread/INFO]: [SweetPee823: Saved the world]
-[08:19:12] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[08:19:12] [Server thread/INFO]: SweetPee823 left the game
-[08:19:16] [Server thread/INFO]: Stopping server
-[08:19:16] [Server thread/INFO]: Saving players
-[08:19:16] [Server thread/INFO]: Saving worlds
-[08:19:16] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[08:19:16] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[08:19:16] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[08:19:16] [Server Shutdown Thread/INFO]: Stopping server
-[08:19:16] [Server Shutdown Thread/INFO]: Saving players
-[08:19:16] [Server Shutdown Thread/INFO]: Saving worlds
-[08:19:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[08:19:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[08:19:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[09:18:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[09:18:01] [Server thread/INFO]: Loading properties
+[09:18:01] [Server thread/INFO]: Default game type: SURVIVAL
+[09:18:01] [Server thread/INFO]: Generating keypair
+[09:18:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:18:01] [Server thread/INFO]: Using default channel type
+[09:18:01] [Server thread/INFO]: Preparing level "world"
+[09:18:01] [Server thread/INFO]: Loaded 488 advancements
+[09:18:02] [Server thread/INFO]: Preparing start region for level 0
+[09:18:03] [Server thread/INFO]: Done (1.284s)! For help, type "help" or "?"
+[09:18:58] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[09:18:58] [Server thread/INFO]: SweetPee823[/10.21.201.254:50286] logged in with entity id 382 at (341.1889937318601, 30.0, 136.74145763719173)
+[09:18:58] [Server thread/INFO]: SweetPee823 joined the game
+[09:21:49] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[09:21:49] [Server thread/INFO]: SweetPee823 left the game
+[09:30:38] [User Authenticator #2/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[09:30:38] [Server thread/INFO]: SweetPee823[/10.21.201.254:50568] logged in with entity id 1747 at (338.9230012236841, 30.0, 137.97373553866416)
+[09:30:38] [Server thread/INFO]: SweetPee823 joined the game
+[09:34:51] [Server thread/WARN]: SweetPee823 moved too quickly! -153.8657950171531,15.0,-149.60913304662222
+[09:36:31] [Server thread/WARN]: SweetPee823 moved too quickly! 153.62322986072166,-15.0,149.71693147769057
+[10:14:16] [Server thread/INFO]: [SweetPee823: Saved the world]
+[10:14:27] [Server thread/WARN]: SweetPee823 moved too quickly! -153.41215619007588,15.0,-149.92900891872938
+[10:17:09] [Server thread/WARN]: SweetPee823 moved too quickly! 153.98140097787726,-15.0,149.48937572438263
+[10:37:22] [Server thread/INFO]: [SweetPee823: Saved the world]
+[10:49:06] [Server thread/INFO]: [SweetPee823: Saved the world]
+[10:49:07] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[10:49:07] [Server thread/INFO]: SweetPee823 left the game
+[10:49:17] [Server thread/INFO]: Stopping the server
+[10:49:17] [Server thread/INFO]: Stopping server
+[10:49:17] [Server thread/INFO]: Saving players
+[10:49:17] [Server thread/INFO]: Saving worlds
+[10:49:17] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[10:49:18] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[10:49:18] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[10:49:18] [Server Shutdown Thread/INFO]: Stopping server
+[10:49:18] [Server Shutdown Thread/INFO]: Saving players
+[10:49:18] [Server Shutdown Thread/INFO]: Saving worlds
+[10:49:18] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[10:49:18] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[10:49:18] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

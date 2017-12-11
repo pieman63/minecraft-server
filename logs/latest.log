@@ -1,36 +1,44 @@
-[09:15:47] [Server thread/INFO]: Loading properties
-[09:15:47] [Server thread/INFO]: Default game type: SURVIVAL
-[09:15:47] [Server thread/INFO]: Generating keypair
-[09:15:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:15:47] [Server thread/INFO]: Using default channel type
-[09:15:48] [Server thread/INFO]: Preparing level "world"
-[09:15:48] [Server thread/INFO]: Loaded 488 advancements
-[09:15:48] [Server thread/INFO]: Preparing start region for level 0
-[09:15:49] [Server thread/INFO]: Done (1.102s)! For help, type "help" or "?"
-[09:16:41] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[09:16:41] [Server thread/INFO]: SweetPee823[/10.21.201.254:59863] logged in with entity id 405 at (326.74744049307634, 38.0, 136.89897103922334)
-[09:16:41] [Server thread/INFO]: SweetPee823 joined the game
-[09:33:53] [Server thread/INFO]: SweetPee823 has made the advancement [Isn't It Iron Pick]
-[09:33:53] [Server thread/INFO]: SweetPee823 has made the advancement [Ice Bucket Challenge]
-[09:36:14] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[09:36:14] [Server thread/INFO]: SweetPee823 left the game
-[09:36:16] [User Authenticator #2/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
-[09:36:16] [Server thread/INFO]: SweetPee823[/10.21.201.254:59877] logged in with entity id 36819 at (-1437.716721337452, 64.0, 390.21404146705174)
-[09:36:16] [Server thread/INFO]: SweetPee823 joined the game
-[10:29:06] [Server thread/INFO]: [SweetPee823: Saved the world]
-[10:55:52] [Server thread/INFO]: [SweetPee823: Saved the world]
-[10:55:53] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
-[10:55:53] [Server thread/INFO]: SweetPee823 left the game
-[10:55:58] [Server thread/INFO]: Stopping the server
-[10:55:58] [Server thread/INFO]: Stopping server
-[10:55:58] [Server thread/INFO]: Saving players
-[10:55:58] [Server thread/INFO]: Saving worlds
-[10:55:58] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[10:55:58] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[10:55:58] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[10:55:58] [Server Shutdown Thread/INFO]: Stopping server
-[10:55:58] [Server Shutdown Thread/INFO]: Saving players
-[10:55:58] [Server Shutdown Thread/INFO]: Saving worlds
-[10:55:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[10:55:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[10:55:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[15:48:15] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:48:15] [Server thread/INFO]: Loading properties
+[15:48:15] [Server thread/INFO]: Default game type: SURVIVAL
+[15:48:15] [Server thread/INFO]: Generating keypair
+[15:48:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:48:15] [Server thread/INFO]: Using default channel type
+[15:48:15] [Server thread/INFO]: Preparing level "world"
+[15:48:15] [Server thread/INFO]: Loaded 488 advancements
+[15:48:16] [Server thread/INFO]: Preparing start region for level 0
+[15:48:16] [Server thread/INFO]: Done (1.109s)! For help, type "help" or "?"
+[15:48:59] [User Authenticator #1/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[15:48:59] [Server thread/INFO]: SweetPee823[/10.21.201.254:63821] logged in with entity id 530 at (335.13153676744747, 38.0, 130.9615205827378)
+[15:48:59] [Server thread/INFO]: SweetPee823 joined the game
+[15:50:56] [User Authenticator #2/INFO]: UUID of player pieman63 is 65ee5d9b-44e7-4770-8c25-5272c8b781be
+[15:50:56] [Server thread/INFO]: pieman63[/10.21.121.57:52791] logged in with entity id 1611 at (313.8884524927654, 64.0, 239.659004129709)
+[15:50:56] [Server thread/INFO]: pieman63 joined the game
+[15:51:08] [Server thread/INFO]: pieman63 lost connection: Disconnected
+[15:51:08] [Server thread/INFO]: pieman63 left the game
+[16:07:14] [Server thread/INFO]: [SweetPee823: Saved the world]
+[16:46:44] [Server thread/INFO]: [SweetPee823: Saved the world]
+[16:58:55] [Server thread/INFO]: [SweetPee823: Saved the world]
+[16:58:56] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[16:58:56] [Server thread/INFO]: SweetPee823 left the game
+[17:23:41] [User Authenticator #3/INFO]: UUID of player SweetPee823 is ccbcde15-1bb4-40e5-9352-d940387bddf9
+[17:23:41] [Server thread/INFO]: SweetPee823[/10.21.201.254:63935] logged in with entity id 52307 at (331.30038523179246, 27.0, 139.93780943300408)
+[17:23:41] [Server thread/INFO]: SweetPee823 joined the game
+[17:33:56] [Server thread/INFO]: [SweetPee823: Saved the world]
+[17:34:08] [Server thread/INFO]: SweetPee823 lost connection: Disconnected
+[17:34:08] [Server thread/INFO]: SweetPee823 left the game
+[17:49:59] [Server thread/INFO]: Saving...
+[17:49:59] [Server thread/INFO]: Saved the world
+[17:50:01] [Server thread/INFO]: Stopping the server
+[17:50:01] [Server thread/INFO]: Stopping server
+[17:50:01] [Server thread/INFO]: Saving players
+[17:50:01] [Server thread/INFO]: Saving worlds
+[17:50:01] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[17:50:01] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:50:01] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[17:50:01] [Server Shutdown Thread/INFO]: Stopping server
+[17:50:01] [Server Shutdown Thread/INFO]: Saving players
+[17:50:01] [Server Shutdown Thread/INFO]: Saving worlds
+[17:50:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[17:50:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:50:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

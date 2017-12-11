@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-12-10 16:47:36 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-27 18:54:26 -0800"
@@ -383,6 +389,8 @@
       "cooked_beef": "2017-11-28 18:36:43 -0800",
       "baked_potato": "2017-11-29 13:13:58 -0800",
       "apple": "2017-12-02 10:45:22 -0800",
+      "melon": "2017-12-10 17:34:02 -0800",
+      "bread": "2017-12-10 15:51:32 -0800",
       "beetroot": "2017-12-07 14:39:35 -0800",
       "cooked_chicken": "2017-12-02 10:48:50 -0800",
       "carrot": "2017-11-28 17:13:44 -0800"
@@ -542,6 +550,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-27 18:54:26 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2017-12-10 16:47:36 -0800"
     },
     "done": true
   },
@@ -793,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2017-12-10 16:47:36 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2017-11-28 17:23:38 -0800"
@@ -856,6 +876,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick": {
     "criteria": {
       "has_nether_wart": "2017-12-04 18:28:39 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2017-12-10 16:51:56 -0800"
     },
     "done": true
   },
@@ -1200,6 +1226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-12-10 16:47:36 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2017-11-27 19:04:28 -0800"
@@ -1311,6 +1343,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2017-12-02 11:24:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2017-12-10 16:51:56 -0800"
     },
     "done": true
   },
@@ -1772,6 +1810,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2017-11-29 13:16:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2017-12-10 16:47:36 -0800"
     },
     "done": true
   },
